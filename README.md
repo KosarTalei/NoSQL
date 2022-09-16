@@ -1,3 +1,2 @@
 # NoSQL
-Extracting information of flights from airline websites, and storing this
-The information in database and processing them.
+Extracting information of flights from airline websites, storing information in database and processing them.
